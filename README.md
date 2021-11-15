@@ -7,7 +7,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/lourc0d3?label=LEESANGDON&logoColor=blue&style=social)
  ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCBnTLVslklwQ3RcIC9xwtYQ?label=LOURCODE&style=social)
 ![Twitter URL](https://img.shields.io/twitter/url?label=LEESANGDON&style=social&url=https%3A%2F%2Ftwitter.com%2Flourcode)
-
 <br>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=plastic-square&logo=Gmail&logoColor=white&link=mailto:dltkdehstm12@naver.com)](mailto:dltkdehstm12@naver.com)
 [![Blog Badge](http://img.shields.io/badge/-gitBlog-blue?style=plastic-square&logo=222222&link=https://blog.naver.com/dltkdehstm12)](https://blog.naver.com/dltkdehstm12)
