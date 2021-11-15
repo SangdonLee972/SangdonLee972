@@ -3,7 +3,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=400&section=header&text=SANGDONLEE&fontSize=90" />
 
    # 📱My Social📱
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSangdonLee972&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?
+url=https%3A%2F%2Fgithub.com%2FSangdonLee972&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+ <br>
 ![GitHub followers](https://img.shields.io/github/followers/lourc0d3?label=LEESANGDON&logoColor=blue&style=social)
 ![Twitter URL](https://img.shields.io/twitter/url?label=LEESANGDON&style=social&url=https%3A%2F%2Ftwitter.com%2Flourcode)
 <br>
@@ -14,7 +16,13 @@
    
  # ⚒Tech Stack⚒
  ### Languages that I use and cherish
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+  
    
    
    
