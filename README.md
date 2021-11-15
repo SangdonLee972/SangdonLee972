@@ -13,6 +13,10 @@
 <br>
 <br>
 <br>
+   <br>
+   
+   <br>
+
    
  # ⚒Tech Stack⚒
  ### Languages that I use and cherish
@@ -21,13 +25,13 @@
    <br>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
   <br>
    <br>
    <br>
    <br>
-   
+   <br>
    
    
   # LEESANGDON
