@@ -18,5 +18,6 @@
 <br>
   
 ### 💻 I'm interested in 💻
-  ### Software Development, System Hacking, Reversing, Network Hacking.
+  ### Software Development
+  ### I hate Devlop
   
