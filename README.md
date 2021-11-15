@@ -11,3 +11,14 @@
 <br>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=plastic-square&logo=Gmail&logoColor=white&link=mailto:lourcode@gmail.com)](mailto:lourcode@gmail.com)
 [![Blog Badge](http://img.shields.io/badge/-gitBlog-blue?style=plastic-square&logo=222222&link=https://lourc0d3.github.io/)](https://lourc0d3.github.io/)
+
+  
+  # LOURCODE
+![LOURCODE's GitHub stats](https://github-readme-stats.vercel.app/api?username=lourc0d3&show_icons=true&theme=radical) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lourc0d3&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+  
+### 💻 I'm interested in 💻
+  ### Software Development, System Hacking, Reversing, Network Hacking.
+  
